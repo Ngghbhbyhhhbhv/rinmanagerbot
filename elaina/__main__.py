@@ -112,13 +112,13 @@ Helpful commands:
 buttons = [
     [
         InlineKeyboardButton(
-            text="🎉 Add Me To Your Group", url="t.me/ElainaPrjktRobot?startgroup=new"
+            text="🎉 Tambahkan Aku Ke Grup", url="t.me/ElainaPrjktRobot?startgroup=new"
         ),
     ],
     [
         InlineKeyboardButton(text="🤖 About", callback_data="elaina_"),
         InlineKeyboardButton(
-            text="⚙️ ️Source Code", url="https://github.com/Zenitsu-ID/ElainaRobot"
+            text="⚙️ ️Source Code", url="https://github.com/Ngghbhbyhhhbhv/rinmanagerbot"
         ),
     ],
     [
